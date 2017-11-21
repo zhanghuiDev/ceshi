@@ -10,6 +10,7 @@
 
 
 #import "ViewController.h"
+#import "GPUImage.h"
 
 @interface ViewController ()
 
@@ -22,6 +23,8 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (IBAction)btnAction:(UIButton *)sender {
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
